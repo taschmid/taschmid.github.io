@@ -1,6 +1,6 @@
 #!/usr/bin/env python
  
-import cgi, cgitb 
+#import cgi, cgitb 
  
 form = cgi.FieldStorage() 
  
